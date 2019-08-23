@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px
+    font-family: sans-serif;
+}
+.course{
+     width: 100%;
+    background-image: linear-gradient(rgba(255,165,0,0.35), orange);
+    min-height: 350px;
+    left: 10%;
+    right: 10%;
+}
+.course h1{
+    margin: 0px;
+    text-align: center;
+    color: rgba(0,71,0,0.64);
+    padding-top: 40px;
+  
+}
+.header{
+    margin-left: 40px;
+    
+}
